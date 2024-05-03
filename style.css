@@ -1,0 +1,29 @@
+.container {
+    display: inline-table;
+    align-items: center;
+    margin: 20px auto;
+    width: fit-content; /* Adjust width as needed */
+    border-right-style: solid;
+    border-left-style:solid ;
+    border-radius: 20px;
+    /* width: 400px; */
+    height: 200px;
+    padding-top: 20px;
+  }
+  
+  .garry {
+    margin-right: 10px;
+    align-items: center;
+    display:inline-table ;
+    /* padding-left:px; */
+    /* margin: 100px; */
+    padding-left: 450px;
+    margin-top: 100px;
+  }
+  
+  input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
